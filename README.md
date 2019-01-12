@@ -13,6 +13,7 @@ Este repositório pretende listar as exchanges existentes no mercado Brasileiro.
 * Profitfy
 * BitcoinTrade
 ## Demais existentes
+* Econobit
 * Troca.Nnja
 * 3xBit
 * BrasilBitcoin
