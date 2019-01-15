@@ -6,10 +6,10 @@ Este repositório pretende listar as exchanges existentes no mercado Brasileiro.
 * BitcoinToYou
 * Walltime
 * BitCambio
-* CoinBR - atual Stratum Blockchain Tech
+* CoinBR - atual Stratum CoinBr Blockchain Tech
 * Braziliex
 * FlowBTC
-* Negociecoins - comprada pelo grupo Bitcoin Banco
+* Negocie Coins - comprada pelo grupo Bitcoin Banco
 * Profitfy
 * BitcoinTrade
 ## Demais existentes
@@ -36,5 +36,6 @@ Este repositório pretende listar as exchanges existentes no mercado Brasileiro.
 * coinX
 * e-juno
 * FXCBit
+* NewsCash
 ## Inclusão de novas exchanges
 Assim que surgir novas exchanges ou que você sabia de alguma que não consta na lista acima basta fazer [(https://github.com/jtayrone/Exchanges-Brasileiras/pulls)]
