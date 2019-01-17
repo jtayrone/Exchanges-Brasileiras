@@ -37,5 +37,7 @@ Este repositório pretende listar as exchanges existentes no mercado Brasileiro.
 * e-juno
 * FXCBit
 * NewsCash
+* Acesso Bitcoin
+* Fortbit
 ## Inclusão de novas exchanges
 Assim que surgir novas exchanges ou que você sabia de alguma que não consta na lista acima basta fazer [(https://github.com/jtayrone/Exchanges-Brasileiras/pulls)]
