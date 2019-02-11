@@ -9,7 +9,7 @@ Este repositório pretende listar as exchanges existentes no mercado Brasileiro.
 * CoinBR/Stratum Blockchain Tech
 * Braziliex
 * FlowBTC
-* Negocie Coins - comprada pelo grupo Bitcoin Banco
+* Negocie Coins - adquirida pelo Grupo Bitcoin Banco
 * Profitfy
 * BitcoinTrade
 ## Demais existentes
@@ -28,7 +28,7 @@ Este repositório pretende listar as exchanges existentes no mercado Brasileiro.
 * Modiax
 * OmniTrade
 * Pagcripto
-* TemBTC
+* TemBTC - adquirida pelo Grupo Bitcoin Banco
 * acasadobitcoin
 * BitBlue
 * Brabex
